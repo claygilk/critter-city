@@ -98,7 +98,7 @@ When you pass one of these checks you gain a number of `Clean Plates` equal to t
 
 ## Mid Shift
 
-The `Mid Shift` is comprised of **5** rounds of being `Open`. 
+The `Mid Shift` is comprised of **5** rounds of being `Open`.
 For each round that your restaurant is `Open` you roll once on the **Customer Table** and once on the **Complication Table**.
 You can make one `Skill` check each round to either serve a customer or deal with a complication.
 If at the end of the 5 rounds no customers are left in the restaurant you move on to the `Closing Shift`.
